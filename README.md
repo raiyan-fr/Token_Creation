@@ -33,7 +33,7 @@ This contract relies on the OpenZeppelin library for ERC20 implementation and ac
 ## Author
 
 - [@raiyan-fr](https://www.github.com/raiyan-fr)
-- 
+  
 ## License
 
 This code is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
